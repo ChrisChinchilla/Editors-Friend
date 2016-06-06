@@ -1,0 +1,22 @@
+{
+  "name": "editors-friend",
+  "main": "./lib/editors-friend",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "editors-friend:toggle",
+      "editors-friend:authormore",
+      "editors-friend:fixwords"
+      ]
+  },
+  "repository": "https://github.com/atom/editors-friend",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
