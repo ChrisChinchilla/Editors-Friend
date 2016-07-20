@@ -11,7 +11,7 @@
       "editors-friend:fixwords"
       ]
   },
-  "repository": "https://github.com/gregariousmammal/editors-friend",
+  "repository": "https://github.com/ChrisChinchilla/Editors-Friend",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
