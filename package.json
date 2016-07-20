@@ -1,7 +1,7 @@
 {
   "name": "editors-friend",
   "main": "./lib/editors-friend",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "A collection of customizable tools for writers and editors. Currently includes pairs of search/replace words, and short codes.",
   "keywords": [
     "productivity",
