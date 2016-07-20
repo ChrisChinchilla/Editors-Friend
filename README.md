@@ -1,5 +1,7 @@
-# editors-friend package
+# The Editors Friend
 
-A short description of your package.
+Are you a writer or editor who loves using Markdown for your writing work? Then you need the Editors Friend!
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+I am in the process of getting proper documentation together, but currently the plugin supports creating lists of words you want to search and replace in text and commands for inserting shortcodes.
+
+It may not be too much use to you right now, but give it time!

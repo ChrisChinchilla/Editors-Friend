@@ -2,8 +2,12 @@
   "name": "editors-friend",
   "main": "./lib/editors-friend",
   "version": "0.1.0",
-  "description": "The Editors friend.",
-  "keywords": [],
+  "description": "A collection of customizable tools for writers and editors. Currently includes pairs of search/replace words, and short codes.",
+  "keywords": [
+    "productivity",
+    "writing",
+    "editing"
+  ],
   "activationCommands": {
     "atom-workspace": [
       "editors-friend:authormore",
