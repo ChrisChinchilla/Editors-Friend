@@ -1,21 +1,19 @@
 {
   "name": "editors-friend",
   "main": "./lib/editors-friend",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "The Editors friend.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": [
       "editors-friend:authormore",
       "editors-friend:fixwords"
-      ]
+    ]
   },
   "repository": "https://github.com/ChrisChinchilla/Editors-Friend",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
